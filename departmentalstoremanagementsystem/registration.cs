@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace departmentalstoremanagementsystem
 {
-    public partial class Form1 : Form
+    public partial class registration : Form
     {
-        public Form1()
+        public registration()
         {
             InitializeComponent();
         }
